@@ -1,0 +1,4 @@
+c:\users\ichsa\onedrive\dokumen\visual studio 2012\Projects\ACTY1\ACTY1\bin\ACTY1.dll
+c:\users\ichsa\onedrive\dokumen\visual studio 2012\Projects\ACTY1\ACTY1\bin\ACTY1.pdb
+c:\users\ichsa\onedrive\dokumen\visual studio 2012\Projects\ACTY1\ACTY1\obj\Debug\ACTY1.dll
+c:\users\ichsa\onedrive\dokumen\visual studio 2012\Projects\ACTY1\ACTY1\obj\Debug\ACTY1.pdb

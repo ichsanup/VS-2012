@@ -1,0 +1,5 @@
+c:\users\ichsa\onedrive\dokumen\visual studio 2012\Projects\ACT1\ACT1\bin\ACT1.dll
+c:\users\ichsa\onedrive\dokumen\visual studio 2012\Projects\ACT1\ACT1\bin\ACT1.pdb
+c:\users\ichsa\onedrive\dokumen\visual studio 2012\Projects\ACT1\ACT1\obj\Debug\ACT1.csprojResolveAssemblyReference.cache
+c:\users\ichsa\onedrive\dokumen\visual studio 2012\Projects\ACT1\ACT1\obj\Debug\ACT1.dll
+c:\users\ichsa\onedrive\dokumen\visual studio 2012\Projects\ACT1\ACT1\obj\Debug\ACT1.pdb

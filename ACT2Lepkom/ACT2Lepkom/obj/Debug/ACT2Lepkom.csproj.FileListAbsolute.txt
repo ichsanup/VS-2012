@@ -1,0 +1,5 @@
+c:\users\ichsa\onedrive\dokumen\visual studio 2012\Projects\ACT2Lepkom\ACT2Lepkom\bin\ACT2Lepkom.dll
+c:\users\ichsa\onedrive\dokumen\visual studio 2012\Projects\ACT2Lepkom\ACT2Lepkom\bin\ACT2Lepkom.pdb
+c:\users\ichsa\onedrive\dokumen\visual studio 2012\Projects\ACT2Lepkom\ACT2Lepkom\obj\Debug\ACT2Lepkom.csprojResolveAssemblyReference.cache
+c:\users\ichsa\onedrive\dokumen\visual studio 2012\Projects\ACT2Lepkom\ACT2Lepkom\obj\Debug\ACT2Lepkom.dll
+c:\users\ichsa\onedrive\dokumen\visual studio 2012\Projects\ACT2Lepkom\ACT2Lepkom\obj\Debug\ACT2Lepkom.pdb
